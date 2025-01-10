@@ -145,6 +145,4 @@ Discrimination, harassment, or any form of disrespectful, disruptive or threaten
 | Week 13        | Apr 10       | Data Analysis and Visualization                  | Basics of R and RStudio. Hands-on: Visualize gene expression data. Student-led tutorial.                                                         |
 | Week 14        | Apr 17       | Human Variation and Personalized Medicine        | Overview of genetic variation and its implications. Reading: Kohane paper discussion. Exam 2.                                                     |
 | Week 15        | Apr 24       | Final Project                                    | Student groups design and run a bioinformatics pipeline using learned tools. Example: Analyze RNA-seq data or construct a phylogenetic tree.     |
-| Week 16        | May 1        | Final Exam                                       | Comprehensive written and practical exam.                                                                                                        |oject: Analyze RNA-seq data, annotate a genome, or construct a phylogenetic tree.
-Week 16 (May 1): Final Exam
-•	Comprehensive written and practical exam.
+| Week 16        | May 1        | Final Exam                                       | Comprehensive written and practical exam.                                                                                                        |

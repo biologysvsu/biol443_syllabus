@@ -1,4 +1,4 @@
-# Tutorial Workshop Assignment Guidelines and Rubric
+# Tutorial/Workshop Assignment Guidelines and Rubric
 
 ## **Objective**
 Students will work in groups of five to design and deliver a 30-minute tutorial workshop on a bioinformatics software tool assigned by the instructor. The workshop should help peers learn the software through a combination of clear instructions, practical examples, and hands-on activities. Students are encouraged to use Google and ChatGPT as resources to build their tutorials.

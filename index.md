@@ -1,6 +1,12 @@
 # COURSE SYLLABUS
 ## BIOL 443: BIOINFORMATICS
 
+- **Course Title:** BIOL 443, Bioinformatics.
+- **Instructor:**   Dr. Jorge Paredes-Montero.
+- **Schedule:**     Thursdays, 1:00 – 3:50 pm.
+- **Location:**     Science East, 223.
+- **Office hours:** M and W 10:00 am – 12:00 pm.
+
 ### Table of Contents
 1. [COURSE DESCRIPTION](#COURSE-DESCRIPTION)
 2. [LEARNING OUTCOMES](#LEARNING-OUTCOMES)

@@ -2,11 +2,11 @@
 
 This repository contains the syllabus for BIOL 443: Bioinformatics. The syllabus is hosted as a GitHub Page for easy access. Read the syllabus [HERE]()
 
-**Course Title:** BIOL 443, Bioinformatics
-**Instructor:**   Dr. Jorge Paredes-Montero
-**Schedule:**     Thursdays, 1:00 – 3:50 pm
-**Location:**     Science East, 223
-**Office hours:** M and W 10:00 am – 12:00 pm
+**Course Title:** BIOL 443, Bioinformatics.
+**Instructor:**   Dr. Jorge Paredes-Montero.
+**Schedule:**     Thursdays, 1:00 – 3:50 pm.
+**Location:**     Science East, 223.
+**Office hours:** M and W 10:00 am – 12:00 pm.
 
 ## Contents
 - `index.md`: The full syllabus content displayed on the GitHub Page.

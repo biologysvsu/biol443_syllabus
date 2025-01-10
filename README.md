@@ -1,6 +1,6 @@
 # BIOL 443: Bioinformatics Syllabus Repository
 
-This repository contains the syllabus for BIOL 443: Bioinformatics. The syllabus is hosted as a GitHub Page for easy access. Read the syllabus [HERE](https://github.com/biologysvsu/biol443_syllabus/blob/main/index.md)
+This repository contains the syllabus for BIOL 443: Bioinformatics. The syllabus is hosted as a GitHub Page for easy access. Read the syllabus [HERE](https://biologysvsu.github.io/biol443_syllabus/)
 
 - **Course Title:** BIOL 443, Bioinformatics.
 - **Instructor:**   Dr. Jorge Paredes-Montero.

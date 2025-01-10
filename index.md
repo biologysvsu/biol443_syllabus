@@ -32,10 +32,10 @@ Students must must bring a laptop to every class meeting, including exams (pract
 - RAM: Minimum of 4 GB.
 - Chromebooks are **not acceptable**.
 ### Required Software:
-- Open a GitHub account using your svsu email.
-- Install Git Bash (Windows users only).
-- Install Notepad++ (Windows users only).
-- Make sure you register in Access (https://registry.access-ci.org/registry/co_petitions/start/coef:6) and obtein an ACCESS ID.
+- Open a [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account using your svsu email.
+- Download and Install [Git Bash](https://gitforwindows.org/) (Windows users only).
+- Download and Install [Notepad++](https://notepad-plus-plus.org/downloads/v8.7.5/).
+- Make sure you register in [Access](https://registry.access-ci.org/registry/co_petitions/start/coef:6) and obtein an ACCESS ID.
 ### Future Software Requirements:
 Additional software will be introduced as the course progresses. Students will be provided with installation instructions or will be responsible for installing the requested software by themselves during the semester.
 ### Alternative Options: 
@@ -132,17 +132,17 @@ Discrimination, harassment, or any form of disrespectful, disruptive or threaten
 | Week 3         | Jan 30       | Job Submission and Supercomputing                | Introduction to C++ basics. Overview of SLURM. Hands-on: Submit simple jobs to the supercomputer.                                                 |
 | **Weeks 4-6**  |              | **Genomics Basics**                              |                                                                                                                                                   |
 | Week 4         | Feb 6        | Sequence Alignment                               | Introduction to BLAST and Clustal Omega. Hands-on: Align sequences and interpret results.                                                         |
-| Week 5         | Feb 13       | Genome Assembly                                  | Overview of de novo and reference-based assembly. Tools: SPAdes, BWA. Hands-on: Assemble a genome.                                                |
-| Week 6         | Feb 20       | Annotation                                       | Functional annotation using BLAST and InterProScan. Hands-on: Annotate genes from assembled genomes.                                              |
+| Week 5         | Feb 13       | Genome Assembly                                  | Overview of de novo and reference-based assembly. Tools: SPAdes, BWA. Hands-on: Assemble a genome.    **Student-Led Tutorials**                                         |
+| Week 6         | Feb 20       | Annotation                                       | Functional annotation using BLAST and InterProScan. Hands-on: Annotate genes from assembled genomes.    **Student-Led Tutorials**                                              |
 | **Weeks 7-12** |              | **Advanced Topics**                              |                                                                                                                                                   |
-| Week 7         | Feb 27       | Amplicon Sequencing Analysis (Exam 1)            | Microbiome diversity. Identifying and removing chimeras. Student-led tutorial.                                                                    |
+| Week 7         | Feb 27       | Amplicon Sequencing Analysis **(Exam 1)**            | Microbiome diversity. Identifying and removing chimeras.    **Student-Led Tutorials**                                                                    |
 | Week 8         | Mar 6        | No Class                                         | Spring Break.                                                                                                                                     |
-| Week 9         | Mar 13       | Transcriptomics                                  | Tools: HISAT2/STAR for alignment, StringTie for transcript assembly. Hands-on: Process RNA-seq data.                                              |
-| Week 10        | Mar 20       | Single-cell RNA-seq                              | Understanding cell types and their diversity. Student-led tutorial.                                                                              |
-| Week 11        | Mar 27       | Phylogenetics                                    | Overview of phylogenetic analysis and software. Tools: MEGA, RAxML. Hands-on: Construct a phylogenetic tree.                                      |
-| Week 12        | Apr 3        | Variant Calling and Phylogenomics                | Tools: SAMtools, bcftools. Hands-on: Identify variants and compare to reference genomes.                                                          |
+| Week 9         | Mar 13       | Transcriptomics                                  | Tools: HISAT2/STAR for alignment, StringTie for transcript assembly. Hands-on: Process RNA-seq data.    **Student-Led Tutorials**                                            |
+| Week 10        | Mar 20       | Single-cell RNA-seq                              | Understanding cell types and their diversity.    **Student-Led Tutorials**                                                                              |
+| Week 11        | Mar 27       | Phylogenetics                                    | Overview of phylogenetic analysis and software. Tools: MEGA, RAxML. Hands-on: Construct a phylogenetic tree.    **Student-Led Tutorials**                                   |
+| Week 12        | Apr 3        | Variant Calling and Phylogenomics                | Tools: SAMtools, bcftools. Hands-on: Identify variants and compare to reference genomes.    **Student-Led Tutorials**                                                        |
 | **Weeks 13-15**|              | **Advanced Applications**                        |                                                                                                                                                   |
-| Week 13        | Apr 10       | Data Analysis and Visualization                  | Basics of R and RStudio. Hands-on: Visualize gene expression data. Student-led tutorial.                                                         |
-| Week 14        | Apr 17       | Human Variation and Personalized Medicine        | Overview of genetic variation and its implications. Reading: Kohane paper discussion. Exam 2.                                                     |
+| Week 13        | Apr 10       | Data Analysis and Visualization                  | Basics of R and RStudio. Hands-on: Visualize gene expression data.    **Student-Led Tutorials**                                                         |
+| Week 14        | Apr 17       | Human Variation and Personalized Medicine **(Exam 2)**        | Overview of genetic variation and its implications. Reading: Kohane paper discussion.                                                    |
 | Week 15        | Apr 24       | Final Project                                    | Student groups design and run a bioinformatics pipeline using learned tools. Example: Analyze RNA-seq data or construct a phylogenetic tree.     |
 | Week 16        | May 1        | Final Exam                                       | Comprehensive written and practical exam.                                                                                                        |

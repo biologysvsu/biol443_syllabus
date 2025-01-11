@@ -79,7 +79,7 @@ Students will work in groups of five to design and deliver a 30-minute tutorial 
 
 ---
 
-## **Revised Syllabus Schedule**
+## **Tutorial Schedule**
 
 | **Week** | **Date**       | **Topic**                              | **Activity**                                    |
 |----------|----------------|----------------------------------------|------------------------------------------------|

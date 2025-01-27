@@ -11,3 +11,5 @@ This repository contains the syllabus for BIOL 443: Bioinformatics. The syllabus
 ## Contents
 - `index.md`: The full syllabus content displayed on the GitHub Page.
 - `README.md`: This file with repository information.
+-  `finalproject.md`: This files contains instructions to follow for your final projects.
+-  `tutorials.md`: This files contains the instructions for the tutorial group activity.

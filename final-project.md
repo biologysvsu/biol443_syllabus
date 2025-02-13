@@ -9,27 +9,45 @@ Work in groups of three to design and complete a bioinformatics project related 
 
 1. **Problem Statement**
    - Clearly define the biological problem or question your project addresses.
-   - Explain why this problem is significant and how it relates to course topics.
-
-2. **Data and Database**
-   - Specify the type of data used (e.g., genomic sequences, protein structures, ecological data).
-   - Identify the database(s) where data was retrieved (e.g., NCBI, UniProt, ENSEMBL).
-
-3. **Methods and Tools**
-   - Highlight the bioinformatics tools, algorithms, or workflows applied for data analysis.
-   - Provide a brief explanation of why these methods were chosen.
-
-4. **Results and Visualizations**
-   - Present findings using clear and relevant visualizations (e.g., graphs, sequence alignments, phylogenetic trees).
-   - Ensure visuals are professional and enhance the interpretation of your results.
-
-5. **Connection to Course Topics**
+   - Clearly state your hypotheses (most likely answer to the problem).
+   - Explain why this problem is significant.
+   - Define the goal of your project in relation to the problem.
+   - List specific objectives that will help achieve this goal.
+     
+2. **Connection to Course Topics**
    - Demonstrate how your project builds on the concepts and tools covered in class.
    - Example topics include:
      - Sequence alignment or BLAST searches
      - Phylogenetic analysis
      - RNA structure prediction
      - Gene annotation or analysis
+     - etc
+       
+3. **Data and Database**
+   - Specify the target organism and type of data used (e.g., genomic sequences, protein structures, ecological data).
+   - You may not subsample files for your final project.
+   - Include details on sample size and replicates.
+   - Identify the database(s) where data was retrieved (e.g., NCBI, UniProt, ENSEMBL).
+
+4. **Methods and Tools**
+   - Highlight the bioinformatics tools, algorithms, or workflows applied for data analysis.
+   - Specify the computing resources used and the time required for processing.
+   - Describe any strategies to optimize performance, such as multi-threading, parallelization, or loops.
+   - Justify your choice of methods: why is your workflow efficient and appropriate for the problem?
+
+5. **Results and Visualizations**
+   - Present findings using clear and relevant visualizations (e.g., graphs, sequence alignments, phylogenetic trees).
+   - Make sure the visuals are professional and enhance the interpretation of your results.
+   - Make sure your visuals are properly labeled and have a description/legend.
+   - All visuals must be original or properly processed—no cropped, distorted, or unrefined images.
+   - Unprocessed screenshots, poorly cropped images, or visuals requiring further editing will received a zero.
+   - Make sure fonts in figures are readable.
+   - Figures must be publication quality—avoid blurry, pixelated, or low-resolution images.
+  
+6. **Conclusions**
+   - Summarize the key findings and their biological significance.
+   - Clearly state whether your data supported the hypothesis.
+   - Discuss future directions
 
 ---
 
@@ -75,7 +93,7 @@ Work in groups of three to design and complete a bioinformatics project related 
 
 ## **Additional Notes for Students**
 
-- **Data and tools**: Ensure you explain *why* you chose specific datasets and tools, not just what they are.
+- **Data and tools**: Make sure you explain *why* you chose specific datasets and tools, not just what they are.
 - **Visualizations**: Use visualizations like sequence alignments, phylogenetic trees, or expression plots to communicate results effectively.
 - **Relevance to course topics**: Stay focused on the bioinformatics methods and topics discussed in class.
 - **Practice**: Rehearse as a group to refine timing, transitions, and overall delivery.

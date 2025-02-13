@@ -7,6 +7,7 @@ This repository contains the syllabus for BIOL 443: Bioinformatics. The syllabus
 - **Schedule:**     Thursdays, 1:00 – 3:50 pm.
 - **Location:**     Science East, 223.
 - **Office hours:** M and W 10:00 am – 12:00 pm.
+- **Office Location** Science West 158.
 
 ## Contents
 - `index.md`: The full syllabus content displayed on the GitHub Page.

@@ -85,11 +85,10 @@ Students will work in groups of five to design and deliver a 30-minute tutorial 
 |----------|----------------|----------------------------------------|------------------------------------------------|
 | 5        | Feb 13         | Software Tutorial #1                  | Group 1 presents                               |
 | 6        | Feb 20         | Software Tutorial #2                  | Group 2 presents                               |
-| 9        | Mar 13          | Software Tutorial #3                  | Group 3 presents                               |
-| 10        | Mar 20         | Software Tutorial #4                  | Group 4 presents                               |
-| 11        | Mar 27          | Software Tutorial #5                  | Group 5 presents                               |
-| 12       | Ape 3         | Software Tutorial #6                  | Group 6 presents                               |
-| 13       | Apr 10         | Software Tutorial #7                  | Group 7 presents                               |
+| 9        | Mar 20         | Software Tutorial #3                  | Group 3 presents                               |
+| 10       | Mar 27        | Software Tutorial #4                  | Group 4 presents                               |
+| 11       | Apr 3         | Software Tutorial #5 & #6                  | Group 5 & 6 present                               |
+| 13       | Apr 17        | Software Tutorial #7                  | Group 7 presents                               |
 
 ---
 

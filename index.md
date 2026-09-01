@@ -38,7 +38,8 @@ Students must must bring a laptop to every class meeting, including exams (pract
 - Chromebooks are **not acceptable**.
 ### Required Software:
 - Open a [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) account using your svsu email.
-- Download and Install [Git Bash](https://gitforwindows.org/) (Windows users only).
+- Make sure 'Windows PowerShell (Terminal)' works on your computer.
+- Mac users: Make sure you know how to access and use your computer’s Terminal.
 - Download and Install [Notepad++](https://notepad-plus-plus.org/downloads/v8.7.5/).
 - Make sure you register in [Access](https://registry.access-ci.org/registry/co_petitions/start/coef:6) and obtein an ACCESS ID.
 ### Future Software Requirements:

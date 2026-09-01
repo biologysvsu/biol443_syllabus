@@ -46,7 +46,6 @@ Students must must bring a laptop to every class meeting, including exams (pract
 Additional software will be introduced as the course progresses. Students will be provided with installation instructions or will be responsible for installing the requested software by themselves during the semester.
 ### Alternative Options: 
 Students without access to a suitable computer may request a loaner laptop from the IT department for short periods.
-- Deadline: Students must inform the instructor by January 19 if they lack access to an appropriate computer.
 - Responsibility: Delays or inability to complete work due to the absence of a laptop will not be excused after this deadline.
 ## MAKEUP WORK AND ATTENDANCE POLICY
 Students are expected to attend all scheduled classes and complete assignments on time. To accommodate unforeseen circumstances, the lowest grade in both the homework and in-class participation categories will be dropped. No makeup assignments or in-class participation grades will be allowed without proper documentation of emergencies (e.g., medical or legal).
@@ -86,18 +85,6 @@ Weekly homework assignments will reinforce key concepts and skills. Missing home
 Students will complete and present tutorials on assigned bioinformatics tools. A grading rubric for tutorials will be provided to ensure transparency and fairness.
 #### Final Project (15%)
 A final project integrating course concepts, evaluated for execution and presentation. Students may propose their own topic for approval or select from instructor-provided topics. A final project integrating course concepts, evaluated for execution and presentation.
-## PROCTOR SYSTEM FOR EXTRA CREDIT
-Students with demonstrated proficiency in command-line usage and programming (especially C) may apply to serve as classroom proctors. Proctors will assist peers with tasks such as software installation and troubleshooting under the instructor’s supervision. This opportunity is on a first-come, first-served basis, and only 4 proctor positions are available.
-- **Eligibility:** Applicants must pass a short skills assessment or interview to ensure they are qualified.
-- **Responsibilities:** Proctors will: 
-    - Assist during class sessions.
-    - Maintain professionalism.
-    - Provide support to peers while tracking their contributions.
-    - Others as deemed appropriate by the instructor.
-- **Compensation:** Proctors will receive extra credit worth 5% of the final grade.
-- **Application Process:** Students must send an email to the instructor by January 19 to apply.
-
-***Note that proctors will not have access to student grades or participate in grading decisions.***
   
 ## SOFTWARE AND COPYRIGHT MATERIAL POLICY
 The use of software and digital resources in this course is governed by Saginaw Valley State University’s Internet and Network Acceptable Use Policy. Students must adhere to the following:
@@ -115,7 +102,6 @@ This course values a respectful and inclusive environment. Students exhibiting d
 - Leaving the class early without valid justification or exceeding 10 minutes when permission to leave (e.g.: breaks) is granted.
 ### Examples of Threatening Behavior:
 - Highly disruptive actions such as hostility or aggression.
-- Inability to communicate clearly (e.g., garbled speech or disjointed thoughts).
 - Loss of reality (e.g., seeing or hearing things that are not present).
 - Expressing overt suicidal thoughts or making homicidal threats.
 Students are encouraged to communicate any concerns they may have in a respectful and timely manner. The instructor is committed to taking all student feelings seriously while maintaining a productive learning environment.
@@ -133,22 +119,22 @@ Discrimination, harassment, or any form of disrespectful, disruptive or threaten
 | **Week**       | **Date**      | **Topic**                                         | **Details**                                                                                                                                       |
 |-----------------|--------------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Weeks 1-3**  |              | **Foundations**                                  |                                                                                                                                                   |
-| Week 1         | Jan 16       | Course Introduction                              | Overview of bioinformatics and the syllabus. Introduction to GitHub and Linux basics. Assignment: Practice Linux basics using an online sandbox. |
-| Week 2         | Jan 23       | High Throughput Sequencing and Public Data       | Sanger sequencing exercise. Exploring NCBI, Ensembl, and SwissProt. Hands-on: Write a bash script to automate file downloads.                     |
-| Week 3         | Jan 30       | Job Submission and Supercomputing                | Introduction to C++ basics. Overview of SLURM. Hands-on: Submit simple jobs to the supercomputer.                                                 |
+| Week 1         | Sep 3      | Course Introduction                              | Overview of bioinformatics and the syllabus. Introduction to GitHub and Linux basics. Assignment: Practice Linux basics using an online sandbox. |
+| Week 2         | Sep 10       | High Throughput Sequencing and Public Data       | Sanger sequencing exercise. Exploring NCBI, Ensembl, and SwissProt. Hands-on: Write a bash script to automate file downloads.                     |
+| Week 3         | Sep 17       | Job Submission and Supercomputing                | Introduction to C++ basics. Overview of SLURM. Hands-on: Submit simple jobs to the supercomputer.                                                 |
 | **Weeks 4-6**  |              | **Genomics Basics**                              |                                                                                                                                                   |
-| Week 4         | Feb 6        | Sequence Alignment                               | Introduction to BLAST. Hands-on: Run blast locally, Align sequences and interpret results.                                                         |
-| Week 5         | Feb 13       | Genome Assembly                                  | Overview of de novo and reference-based assembly. Tools: Bowtie2. Hands-on: Assemble a genome.    **Student-Led Tutorials 1**                                         |
-| Week 6         | Feb 20       | Annotation                                       | Functional annotation using BLAST and InterProScan. Tools: SPAdes Hands-on: Annotate genes from assembled genomes.    **Student-Led Tutorials 2**                                              |
+| Week 4         | Sep 24        | Sequence Alignment                               | Introduction to BLAST. Hands-on: Run blast locally, Align sequences and interpret results.                                                         |
+| Week 5         | Oct 1       | Genome Assembly                                  | Overview of de novo and reference-based assembly. Tools: Bowtie2. Hands-on: Assemble a genome.    **Student-Led Tutorials 1**                                         |
+| Week 6         | Oct 8       | Annotation                                       | Functional annotation using BLAST and InterProScan. Tools: SPAdes Hands-on: Annotate genes from assembled genomes.    **Student-Led Tutorials 2**                                              |
 | **Weeks 7-12** |              | **Advanced Topics**                              |                                                                                                                                                   |
-| Week 7         | Feb 27       | Amplicon Sequencing Analysis           | Microbiome diversity. Identifying and removing chimeras.                                                                   |
-| Week 8         | Mar 6        | No Class                                         | Spring Break.                                                                                                                                     |
-| Week 9         | Mar 13       | Transcriptomics  **(Final Project Checkpoint 1)**                                   | Tools: HISAT2/STAR for alignment, StringTie for transcript assembly. Hands-on: Process RNA-seq data.                                           |
-| Week 10        | Mar 20       | Single-cell RNA-seq                              | Understanding cell types and their diversity.    **Student-Led Tutorials 3**                                                                              |
-| Week 11        | Mar 27       | Phylogenetics                                     | Overview of phylogenetic analysis and software. Tools: MEGA, RAxML. Hands-on: Construct a phylogenetic tree.    **Student-Led Tutorials 4**                                  |
-| Week 12        | Apr 3        | Variant Calling and Phylogenomics                | Tools: SAMtools, bcftools. Hands-on: Identify variants and compare to reference genomes.    **Student-Led Tutorials 5 & 6**                                                        |
-| **Weeks 13-15**|              | **Advanced Applications**                        |                                                                                                                                                   |
-| Week 13        | Apr 10       | Data Analysis and Visualization **(Final Project Checkpoint 2)**                  | Basics of R and RStudio. Hands-on: Visualize gene expression data.                                                          |
-| Week 14        | Apr 17       | Human Variation and Personalized Medicine        | Overview of genetic variation and its implications. Reading: Kohane paper discussion.     **Student-Led Tutorials 7**                                                  |
-| Week 15        | Apr 24       | Final Project                                    | Student groups design and run a bioinformatics pipeline using learned tools. Example: Analyze RNA-seq data or construct a phylogenetic tree.     |
-| Week 16        | May 1        | Final Exam                                       | Comprehensive written and practical exam.                                                                                                        |
+| Week 7         | Oct 15       | Amplicon Sequencing Analysis           | Microbiome diversity. Identifying and removing chimeras.                                                                   |
+| Week 8         | Oct 22        | No Class                                         | Spring Break.                                                                                                                                     |
+| Week 9         | Oct 29       | Transcriptomics  **(Final Project Checkpoint 1)**                                   | Tools: HISAT2/STAR for alignment, StringTie for transcript assembly. Hands-on: Process RNA-seq data.                                           |
+| Week 10        | Nov 5       | Single-cell RNA-seq                              | Understanding cell types and their diversity.    **Student-Led Tutorials 3**                                                                              |
+| Week 11        | Nov 12       | Phylogenetics                                     | Overview of phylogenetic analysis and software. Tools: MEGA, RAxML. Hands-on: Construct a phylogenetic tree.    **Student-Led Tutorials 4**                                  |
+| Week 12        | Nov 19        | Variant Calling and Phylogenomics                | Tools: SAMtools, bcftools. Hands-on: Identify variants and compare to reference genomes.    **Student-Led Tutorials 5 & 6**                                                        |
+| **Weeks 13-15**|              | **Advanced Applications**                        |                                                 |
+| Week 13        | Nov 26       | Data Analysis and Visualization **(Final Project Checkpoint 2)**                  | Basics of R and RStudio. Hands-on: Visualize gene expression data.|
+| Week 14        | Dec 3       | Human Variation and Personalized Medicine        | Overview of genetic variation and its implications. Reading: Kohane paper discussion.     **Student-Led Tutorials 7**|
+| Week 15        | Dec 10       | Final Project                                    | Student groups design and run a bioinformatics pipeline using learned tools. Example: Analyze RNA-seq data or construct a phylogenetic tree.|
+| Week 16        | Dec 17        | Final Exam                                       | Comprehensive written and practical exam.|

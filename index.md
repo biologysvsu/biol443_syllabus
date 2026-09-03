@@ -73,7 +73,7 @@ The following grading scale will be used in this course:
 #### Exams (30%)
 - Partial Exam 1 (a.k.a. Checkpoint) (10%): Includes written and practical components, requiring laptops.
 - Partial Exam 2 ((a.k.a. Checkpoint)(10%): Includes written and practical components, requiring laptops.
-- Final Exam (20%): Cumulative, with written and practical sections, requiring laptops.
+- Final Exam (10%): Cumulative, with written and practical sections, requiring laptops.
 #### In-Class Assignments and Participation (10%)
 Participation will be tracked by:
 - The number of interactions in the GitHub classroom interface or GitHub account (number of commits submissions).

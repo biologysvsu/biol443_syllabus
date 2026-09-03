@@ -70,9 +70,9 @@ The following grading scale will be used in this course:
 | F         | <60%                 |
 
 ### Grading Breakdown
-#### Exams (50%)
-- Partial Exam 1 (15%): Includes written and practical components, requiring laptops.
-- Partial Exam 2 (15%): Includes written and practical components, requiring laptops.
+#### Exams (30%)
+- Partial Exam 1 (a.k.a. Checkpoint) (10%): Includes written and practical components, requiring laptops.
+- Partial Exam 2 ((a.k.a. Checkpoint)(10%): Includes written and practical components, requiring laptops.
 - Final Exam (20%): Cumulative, with written and practical sections, requiring laptops.
 #### In-Class Assignments and Participation (10%)
 Participation will be tracked by:
@@ -81,9 +81,9 @@ Participation will be tracked by:
 - Points will be awarded at 5 points per session for in-class participation.
 #### Homework Assignments (10%)
 Weekly homework assignments will reinforce key concepts and skills. Missing homework assignments will directly affect the grade.
-#### Tutorials (15%)
+#### Tutorials (25%)
 Students will complete and present tutorials on assigned bioinformatics tools. A grading rubric for tutorials will be provided to ensure transparency and fairness.
-#### Final Project (15%)
+#### Final Project (25%)
 A final project integrating course concepts, evaluated for execution and presentation. Students may propose their own topic for approval or select from instructor-provided topics. A final project integrating course concepts, evaluated for execution and presentation.
   
 ## SOFTWARE AND COPYRIGHT MATERIAL POLICY

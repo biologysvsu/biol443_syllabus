@@ -70,15 +70,15 @@ The following grading scale will be used in this course:
 
 ### Grading Breakdown
 #### Exams (30%)
-- Partial Exam 1 (a.k.a. Checkpoint) (10%): Includes written and practical components, requiring laptops.
-- Partial Exam 2 ((a.k.a. Checkpoint)(10%): Includes written and practical components, requiring laptops.
+- Partial Exam 1 (a.k.a. Checkpoint) (0%): Includes written and practical components, requiring laptops.
+- Partial Exam 2 ((a.k.a. Checkpoint)(0%): Includes written and practical components, requiring laptops.
 - Final Exam (10%): Cumulative, with written and practical sections, requiring laptops.
-#### In-Class Assignments and Participation (10%)
+#### In-Class Assignments and Participation (20%)
 Participation will be tracked by:
 - The number of interactions in the GitHub classroom interface or GitHub account (number of commits submissions).
 - A participation log circulated in class to track verbal contributions and active engagement.
 - Points will be awarded at 5 points per session for in-class participation.
-#### Homework Assignments (10%)
+#### Homework Assignments (20%)
 Weekly homework assignments will reinforce key concepts and skills. Missing homework assignments will directly affect the grade.
 #### Tutorials (25%)
 Students will complete and present tutorials on assigned bioinformatics tools. A grading rubric for tutorials will be provided to ensure transparency and fairness.
